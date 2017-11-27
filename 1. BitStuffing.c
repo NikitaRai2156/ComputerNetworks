@@ -36,6 +36,6 @@ int main(){
   }
   
   printf("\nFrame after stuffing is: ");
-  for(i=0;i<n;i++)
+  for(i=0;i<j;i++)
     printf("%d", b[i]);
 }
